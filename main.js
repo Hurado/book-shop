@@ -4,7 +4,7 @@ wrapper.style.position = "flex";
 wrapper.style.width = "100%";
 wrapper.id = "wrapper";
 const backgroundImage = document.createElement("img");
-backgroundImage.src = "../images/background-library.jpg";
+backgroundImage.src = "../images/background-library (1).jpg";
 const body = document.getElementById("body");
 wrapper.appendChild(backgroundImage);
 backgroundImage.style.width = "100%";
